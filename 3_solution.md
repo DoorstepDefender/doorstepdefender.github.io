@@ -9,14 +9,20 @@ Our final product to combat Porch Piracy incorporates 2 parts:
 * [Detecting Packages](#detecting-packages)
 
 ## Securing Packages: Trash Can
+
 * Trash Cans are cheap and readily available for us to use​.
 * Excellent starting-point since a trash can already has​ an openable lid​ and space to store both small and large packages.
 * Ultimate camouflage against porch pirates from the streets and near to your porch​.
+
+<img src="/res/solution/trash_can_2.png" alt="Trash Can" height=200>
 
 ### Our Modifications
 * One-way opening where packages can be delivered​.
     - Dual flaps to contain package​.
 * Locking rear access door for the owner to easily retrieve their packages​.
+
+<img src="/res/solution/trash_can_1.png" alt="Trash Can" height=200>
+<img src="/res/solution/trash_can_3.png" alt="Trash Can" height=200>
 
 ### Building Prototype
 * Purchased a trash can, ​hinges, and a mailbox ​lock​.
@@ -43,6 +49,8 @@ Our final product to combat Porch Piracy incorporates 2 parts:
 * Mobile app to communicate with the Raspberry Pi over Bluetooth.​
 * Visualization of Package status within the app.​
 * Notifications when status changes (Delivered or removed).​
+
+<img src="/res/solution/app.png" alt="Trash Can" height=200>
 
 * The Mobile App is programmed in Java.​
 * The App runs a foreground service on the Mobile Device that continues running after the app is closed.​
